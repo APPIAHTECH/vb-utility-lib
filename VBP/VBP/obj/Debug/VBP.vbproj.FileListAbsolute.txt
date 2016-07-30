@@ -1,0 +1,30 @@
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\bin\Debug\VBP.exe.config
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\bin\Debug\VBP.exe
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\bin\Debug\VBP.pdb
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\bin\Debug\VBP.xml
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.vbprojResolveAssemblyReference.cache
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.Resources.resources
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.vbproj.GenerateResource.Cache
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.exe
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.xml
+c:\users\gamer\documents\visual studio 2015\Projects\VBP\VBP\obj\Debug\VBP.pdb
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\bin\Debug\VBP.exe.config
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.exe
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.xml
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.pdb
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\bin\Debug\VBP.exe
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\bin\Debug\VBP.pdb
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\bin\Debug\VBP.xml
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.vbprojResolveAssemblyReference.cache
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.Resources.resources
+C:\Users\Gamer\Documents\my_project\Projects\VBP\VBP\obj\Debug\VBP.vbproj.GenerateResource.Cache
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\bin\Debug\VBP.exe.config
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.exe
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.xml
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.pdb
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\bin\Debug\VBP.exe
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\bin\Debug\VBP.pdb
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\bin\Debug\VBP.xml
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.vbprojResolveAssemblyReference.cache
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.Resources.resources
+C:\Users\Gamer\Documents\my_project\ProjectsDesktop VB-C#\VBP\VBP\obj\Debug\VBP.vbproj.GenerateResource.Cache
